@@ -1,0 +1,11 @@
+Lima is the capital of Peru and the center of all the commercial movement. All the parents try to move to a house that is closer to a colleges
+or schools because it's more convenient and safer for their children. There are many houses and departments in Lima, each belonging to different categories 
+So as part of this project, we will list and visualize all the zones that are closest to the colleges and schools.
+
+
+Questions that can be asked using the above mentioned datasets
+What places (districts) of Lima have the highest prices for m2?
+Which is the best location in Lima to buy a house if you want to stay close to the colleges?
+Which is the best location in Lima to buy a house if you want to stay close to the schools?
+Which of all areas have the less number of colleges?
+Which is the best location in Lima to buy a house if you want to stay close to the schools?

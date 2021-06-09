@@ -1,0 +1,7 @@
+For this project we need the following data :
+Lima houses and departments data that contains list Price, Type, District along with their latitude and longitude.
+Data source : house_pricing_lima_peru kaggel dataset : "https://www.kaggle.com/pbenavides/house-pricing-lima-peru"
+Description : This data set contains the required information about houses and departments prices.
+Nearby places in each houses and departments of Lima city.
+Data source : Fousquare API : "https://developer.foursquare.com/"
+Description : By using this api we will get all the venues in each neighborhood.
